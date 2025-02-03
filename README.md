@@ -20,6 +20,7 @@ The following modules are used in this project:
 
 ## Sample video
 -  [Sample input video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
+-  [Sample input video](https://www.dropbox.com/scl/fi/yswvtxhej8icjc5ws9fwi/98TH-MINUTE-WINNER-_-Liverpool-vs-Newcastle-_-Premier-League-Highlights.mp4?rlkey=oc7uadhoj4xqcasgxlkz8qkr8&st=kow6scgi&dl=0)
 
 ## Requirements
 To run this project, you need to have the following requirements installed:
