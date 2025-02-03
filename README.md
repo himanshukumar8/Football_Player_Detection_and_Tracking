@@ -4,7 +4,7 @@
 ## Introduction
 YOLO, a top AI object identification model, will be used in this project to identify and follow footballs, players, and officials in films. We'll train the model to improve its performance. To further allocate participants to teams according to the colour of their t-shirts, we will use Kmeans for pixel segmentation and clustering. We can use this information to calculate a team's ball acquisition percentage during a match. To precisely estimate player movement, we'll employ optical flow to track camera movement between frames. In order to track player movement in meters rather than pixels, perspective transformation will be used to record depth and perspective. Lastly, we'll figure out the player's speed and distance travelled.
 
-![display](output_videos/screenshot.png)
+![display](output_videos/output_video.avi)
 
 
 ## Modules Used
